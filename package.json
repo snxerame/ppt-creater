@@ -1,0 +1,10 @@
+{
+  "name": "ppt-creater-api",
+  "version": "1.0.0",
+  "main": "api/create-ppt.js",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/blob": "0.8.2",
+    "pptxgenjs": "3.12.0"
+  }
+}
